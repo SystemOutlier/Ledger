@@ -1,4 +1,3 @@
-```
 # Dependencies
 node_modules/
 
@@ -67,4 +66,3 @@ static/nuxt/
 *.swo
 .DS_Store
 Thumbs.db
-```
